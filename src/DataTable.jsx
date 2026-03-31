@@ -28,6 +28,7 @@ const userData = [
   { id: 1, name: "Alice", isAvailable: true },
   { id: 2, name: "Bob", isAvailable: false },
   { id: 3, name: "Charlie", isAvailable: true },
+  { id: 4, name: "suchee", isAvailable: true }
 ];
 
 export default DataTable;
